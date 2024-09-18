@@ -1,3 +1,3 @@
-<?PHP
-teste
+<?php
+    
 ?>
